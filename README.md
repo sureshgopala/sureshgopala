@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sureshgopala 
 - 👀 I’m interested in software testing and working as an automation engineer.
-- 🌱 I’m currently learning javascript and automation technologies
+- 🌱 Having Hands On Experience with Java, Selenium, Java Script, Rest Assured, Cucumber, Cypress, Playwright. 
 - 💞️ I’m looking to collaborate on new technologies on automation.
 - 📫 How to reach me : sureshgnie@gmail.com / +91-9845691093
 
